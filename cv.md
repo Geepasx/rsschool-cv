@@ -33,3 +33,15 @@ function squareDigits(num){
     return parseInt(result)
 }
 ```
+
+# Education
+* Kazakh National Technical University
+    + Software systems and networks
+
+* College of Academy of Banking 
+    + Computer software and automated systems
+
+# Languages
+* __Kazakh__ - native speaker
+* **Russian** - advanced level
+* __English__ - A2
